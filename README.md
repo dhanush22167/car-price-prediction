@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Predictor
+# Used Car Price Predictor
 
 An end-to-end machine learning project that predicts the resale price of a car
 from its specifications (make, year, engine, transmission, fuel economy, etc.),
