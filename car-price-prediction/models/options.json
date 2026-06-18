@@ -1,0 +1,119 @@
+{
+  "best_model": "xgboost",
+  "numeric_ranges": {
+    "Year": {
+      "min": 1990.0,
+      "max": 2017.0,
+      "median": 2015.0
+    },
+    "Engine HP": {
+      "min": 55.0,
+      "max": 707.0,
+      "median": 220.0
+    },
+    "Engine Cylinders": {
+      "min": 0.0,
+      "max": 12.0,
+      "median": 6.0
+    },
+    "Number of Doors": {
+      "min": 2.0,
+      "max": 4.0,
+      "median": 4.0
+    },
+    "highway MPG": {
+      "min": 12.0,
+      "max": 354.0,
+      "median": 26.0
+    },
+    "city mpg": {
+      "min": 9.0,
+      "max": 137.0,
+      "median": 18.0
+    }
+  },
+  "categorical_options": {
+    "Make": [
+      "Acura",
+      "Alfa Romeo",
+      "Aston Martin",
+      "Audi",
+      "BMW",
+      "Bentley",
+      "Buick",
+      "Cadillac",
+      "Chevrolet",
+      "Chrysler",
+      "Dodge",
+      "FIAT",
+      "Ferrari",
+      "Ford",
+      "GMC",
+      "Genesis",
+      "HUMMER",
+      "Honda",
+      "Hyundai",
+      "Infiniti",
+      "Kia",
+      "Lamborghini",
+      "Land Rover",
+      "Lexus",
+      "Lincoln",
+      "Lotus",
+      "Maserati",
+      "Mazda",
+      "McLaren",
+      "Mercedes-Benz",
+      "Mitsubishi",
+      "Nissan",
+      "Oldsmobile",
+      "Plymouth",
+      "Pontiac",
+      "Porsche",
+      "Saab",
+      "Scion",
+      "Subaru",
+      "Suzuki",
+      "Tesla",
+      "Toyota",
+      "Volkswagen",
+      "Volvo"
+    ],
+    "Transmission Type": [
+      "AUTOMATED_MANUAL",
+      "AUTOMATIC",
+      "DIRECT_DRIVE",
+      "MANUAL",
+      "UNKNOWN"
+    ],
+    "Driven_Wheels": [
+      "all wheel drive",
+      "four wheel drive",
+      "front wheel drive",
+      "rear wheel drive"
+    ],
+    "Vehicle Size": [
+      "Compact",
+      "Large",
+      "Midsize"
+    ],
+    "Vehicle Style": [
+      "2dr Hatchback",
+      "2dr SUV",
+      "4dr Hatchback",
+      "4dr SUV",
+      "Cargo Minivan",
+      "Cargo Van",
+      "Convertible",
+      "Convertible SUV",
+      "Coupe",
+      "Crew Cab Pickup",
+      "Extended Cab Pickup",
+      "Passenger Minivan",
+      "Passenger Van",
+      "Regular Cab Pickup",
+      "Sedan",
+      "Wagon"
+    ]
+  }
+}

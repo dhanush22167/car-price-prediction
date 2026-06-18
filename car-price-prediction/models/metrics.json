@@ -1,0 +1,14 @@
+{
+  "linear_regression": {
+    "rmse": 14922.48,
+    "r2": 0.6822
+  },
+  "random_forest": {
+    "rmse": 5486.76,
+    "r2": 0.957
+  },
+  "xgboost": {
+    "rmse": 4865.12,
+    "r2": 0.9662
+  }
+}
