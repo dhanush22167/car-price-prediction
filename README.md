@@ -4,7 +4,7 @@ An end-to-end machine learning project that predicts the resale price of a car
 from its specifications (make, year, engine, transmission, fuel economy, etc.),
 deployed as an interactive web app.
 
-**Live demo:** _[add your Streamlit Cloud link here after deployment]_
+**Live demo:** _https://car-price-prediction-ujb5o5aeamoqjsqrswmsum.streamlit.app/_
 
 ![Price Distribution](assets/price_distribution.png)
 
